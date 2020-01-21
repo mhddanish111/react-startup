@@ -8,9 +8,9 @@ class MenuBar extends Component {
    render(){
        return ( <div className="topnav">
        <a className="active" href="#home">Home</a>
-       <a href="#news">News</a>
-       <a href="#contact">Contact</a>
-       <a href="#about">About</a>
+       <a href="#product">Product</a>
+       <a href="#about-us">About US</a>
+       <a href="#contact-us">Contact US</a>
    </div>)
    }
 }
